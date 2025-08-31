@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "lizard")(type "KiCad")(uri "${KIPRJMOD}/lizard.kicad_sym")(options "")(descr ""))
-  (lib (name "zzz")(type "KiCad")(uri "${KIPRJMOD}/easyeda_temp.kicad_sym")(options "")(descr ""))
-)

@@ -1,0 +1,75 @@
+Altium Designer Pick and Place Locations,,,,
+D:\Project\USB_PD_DVD\Project Outputs for USB_PD_DVD\Pick Place\Pick Place for PD_dvd.csv,,,,
+,,,,
+========================================================================================================================,,,,
+File Design Information:,,,,
+,,,,
+Date:       30/08/25,,,,
+Time:       20:39,,,,
+Revision:   Not in VersionControl,,,,
+Variant:    No variations,,,,
+Units used: mm,,,,
+,,,,
+Designator,Layer,Center-X(mm),Center-Y(mm),Rotation
+X3,TopLayer,67.6910mm,15.9350mm,90
+X2,TopLayer,3.9370mm,15.9350mm,270
+X1,TopLayer,14.8590mm,28.7020mm,0
+U5,TopLayer,49.0220mm,18.9230mm,180
+U4,TopLayer,34.9250mm,3.4290mm,90
+U3,TopLayer,34.9250mm,18.6690mm,90
+U2,TopLayer,14.8590mm,16.0020mm,270
+U1,TopLayer,14.9860mm,6.4770mm,180
+S2,TopLayer,56.6419mm,24.7650mm,90
+S1,TopLayer,56.8961mm,7.8740mm,270
+R28,TopLayer,56.0070mm,16.5100mm,270
+R26,TopLayer,30.7340mm,2.1590mm,0
+R25,TopLayer,32.5120mm,3.8100mm,90
+R24,TopLayer,37.7190mm,3.4290mm,270
+R22,TopLayer,32.1310mm,17.0180mm,0
+R21,TopLayer,32.5120mm,18.6734mm,90
+R20,TopLayer,37.7190mm,18.7960mm,270
+R19,TopLayer,32.1334mm,15.9028mm,180
+R18,TopLayer,21.4630mm,16.3830mm,180
+R17,TopLayer,21.4630mm,17.5260mm,180
+R16,TopLayer,21.4630mm,18.6690mm,180
+R15,TopLayer,21.4630mm,19.8120mm,180
+R14,TopLayer,21.4630mm,20.9550mm,180
+R13,TopLayer,21.4630mm,15.2400mm,180
+R12,TopLayer,21.4630mm,14.0970mm,180
+R11,TopLayer,21.4630mm,12.9540mm,180
+R10,TopLayer,21.4630mm,11.8110mm,180
+R9,TopLayer,21.4630mm,10.6680mm,180
+R8,TopLayer,21.4630mm,9.6520mm,180
+R7,TopLayer,11.5511mm,13.9700mm,180
+R6,TopLayer,11.5511mm,15.1553mm,180
+R5,TopLayer,11.5511mm,16.3407mm,180
+R4,TopLayer,11.5511mm,17.5260mm,180
+R3,TopLayer,16.7640mm,12.1920mm,180
+R2,TopLayer,11.5570mm,18.9230mm,180
+R1,TopLayer,13.4620mm,12.1920mm,180
+L2,TopLayer,38.1000mm,10.7950mm,0
+L1,TopLayer,38.1000mm,25.1460mm,0
+C24,TopLayer,58.1660mm,16.6370mm,270
+C23,TopLayer,47.2374mm,15.8141mm,180
+C22,TopLayer,47.1789mm,14.6462mm,180
+C21,TopLayer,54.4830mm,16.3830mm,270
+C20,TopLayer,53.2130mm,16.3830mm,270
+C19,TopLayer,31.1150mm,3.8100mm,270
+C18,TopLayer,29.8450mm,3.8007mm,270
+C17,TopLayer,27.9400mm,3.6830mm,270
+C16,TopLayer,25.6540mm,3.6830mm,270
+C15,TopLayer,49.8133mm,10.7950mm,270
+C14,TopLayer,48.2600mm,10.7950mm,270
+C13,TopLayer,46.3550mm,10.7950mm,270
+C12,TopLayer,43.9420mm,10.7918mm,270
+C11,TopLayer,33.1470mm,10.5410mm,270
+C10,TopLayer,31.1150mm,18.6690mm,270
+C9,TopLayer,29.8450mm,18.6690mm,270
+C8,TopLayer,27.9400mm,18.6658mm,270
+C7,TopLayer,25.6540mm,18.6658mm,270
+C6,TopLayer,49.8133mm,24.2602mm,270
+C5,TopLayer,48.2600mm,24.2570mm,270
+C4,TopLayer,46.3550mm,24.2570mm,270
+C3,TopLayer,43.9420mm,24.2570mm,270
+C2,TopLayer,33.1470mm,24.7650mm,270
+C1,TopLayer,14.7320mm,18.4150mm,0
